@@ -1,6 +1,6 @@
-# ☔ RainRouteChecker: Don't Get Caught Drowning (Unless You Want To) 🚗
+# ☔ Rain-Pain: Don't Get Caught Drowning (Unless You Want To) 🚗
 
-Ever planned a perfect road trip, only to find yourself navigating through a surprise monsoon? 🌧️ Or maybe you just enjoy a good downpour and want to ensure you hit every single one? Either way, **RainRouteChecker** is your new best friend (or worst enabler).
+Ever planned a perfect road trip, only to find yourself navigating through a surprise monsoon? 🌧️ Or maybe you just enjoy a good downpour and want to ensure you hit every single one? Either way, **Rain-Pain** is your new best friend (or worst enabler).
 
 This Flask application meticulously plots your route and then, with a sinister chuckle, tells you precisely where and when you're likely to encounter rain. Because who needs sunshine when you can have a perpetually damp journey? 😈
 
@@ -24,8 +24,8 @@ To get this glorious monument to meteorological misery running, follow these sim
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/RainRouteChecker.git
-    cd RainRouteChecker
+    git clone https://github.com/vedantkale106/Rain-Pain.git
+    cd Rain-Pain
     ```
 
 2.  **Set up your virtual environment (highly recommended, unless you enjoy dependency hell):**
