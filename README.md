@@ -94,9 +94,11 @@ Feel free to fork this project and contribute. Whether it's adding more weather 
 -----
 ## 🔫 Screenshots
 
-<img width="1887" height="918" alt="Image" src="https://github.com/user-attachments/assets/abbe557a-55bf-498b-aae8-a19535f3accd" />
-<img width="1887" height="918" alt="Image" src="https://github.com/user-attachments/assets/2b5d08ab-bdee-41be-be1e-9d04eda3668f" />
 <img width="1917" height="915" alt="Image" src="https://github.com/user-attachments/assets/5afabef0-ff52-4609-a84b-55fd966a33b2" />
+<img width="1887" height="918" alt="Image" src="https://github.com/user-attachments/assets/2b5d08ab-bdee-41be-be1e-9d04eda3668f" />
+<img width="1887" height="918" alt="Image" src="https://github.com/user-attachments/assets/abbe557a-55bf-498b-aae8-a19535f3accd" />
+
+
 
 
 -----
